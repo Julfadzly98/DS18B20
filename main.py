@@ -21,3 +21,6 @@ while True:
     
     # Wait for a second before reading again
     time.sleep(1)
+
+
+#   https://docs.google.com/spreadsheets/d/1rZtET8V9EjBPN9CqarLRkBieTXYhDZyPql7ZwbCThN8/edit?usp=sharing
